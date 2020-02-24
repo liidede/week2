@@ -1,0 +1,28 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+.important {
+  color: red;
+}
+img {
+  float: right;
+}
+body {
+  background-color: pink;
+}
+h3 {
+  font-size: rgba(255, 0, 0, 0.5);
+  color: white;
+}
